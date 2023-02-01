@@ -3,7 +3,7 @@
   <a href="https://portfolio-prangan27.vercel.app/" target="_blank">Prangan.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img2.png" />
+  <img alt="Demo" src="./Images/full stack.png" />
 </div>
 
 <br/>
